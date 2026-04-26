@@ -5,4 +5,4 @@
 ### 1. Crear una nueva rama (feature)
 
 ```bash
-git checkout -b feature/tu-caracteristica
+git checkout -b feature/git_workflow
